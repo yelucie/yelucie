@@ -1,7 +1,5 @@
 <p align="center"><a href="https://lucie-ye.vercel.app"><img width="80%" alt="Bonjour, I'm Lucie. I like making cool applications!" src="./assets/github-header.png" /></a></p>
 
-<br />
-
 ## 🍵  About me
 
 <a name="about"></a>
