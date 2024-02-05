@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lucie
+- 👀 I’m interested in designing and implementing cool web applications
+- 🌱 I’m currently learning Three.JS
