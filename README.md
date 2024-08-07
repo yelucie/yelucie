@@ -75,7 +75,7 @@
 
 ## ⭐  Top Projects
 
-<a href="https://github.com/yelucie/fall2023/portfolio">
+<a href="https://github.com/yelucie/fall2023-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yelucie&repo=fall2023-portfolio&theme=buefy" />
 </a>
 <a href="https://github.com/yelucie/itmd541-lab4">
