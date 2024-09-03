@@ -52,6 +52,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=0052cc" alt="Jira logo" title="Jira" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
 
 ## 📖  What I am currently learning / improving on
 
