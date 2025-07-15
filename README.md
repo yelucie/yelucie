@@ -8,7 +8,7 @@
 
 - 📈 Built apps with Spring Boot, Next.js, Express.js, etc.
 
-- ❤️ I love writing Java and Javascript
+- ❤️ I love writing in Typescript and Java
 
 - 💬 Ask me about anything [here](https://github.com/yelucie/yelucie/issues)
 
